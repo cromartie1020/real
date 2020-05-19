@@ -1,0 +1,10 @@
+/static
+env/
+*.pot
+*.pyc
+__pycache__
+db.sqlite3
+__init__/
+media
+*.log
+.ipynb_checkpoints 
